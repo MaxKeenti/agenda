@@ -1,13 +1,13 @@
-package mx.ipn.upiicsa.poo.agenda;
+package mx.ipn.upiicsa.poo.agendacontactos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AgendaApplication {
+public class AgendacontactosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AgendaApplication.class, args);
+		SpringApplication.run(AgendacontactosApplication.class, args);
 	}
 
 }

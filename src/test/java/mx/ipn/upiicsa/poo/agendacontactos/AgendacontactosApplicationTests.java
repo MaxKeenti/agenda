@@ -1,10 +1,10 @@
-package mx.ipn.upiicsa.poo.agenda;
+package mx.ipn.upiicsa.poo.agendacontactos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AgendaApplicationTests {
+class AgendacontactosApplicationTests {
 
 	@Test
 	void contextLoads() {
